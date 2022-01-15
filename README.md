@@ -1,2 +1,7 @@
-# study-notes-and-practical-training
+
 学习笔记与实战训练
+======
+> 实战，实践与行为。
+
+让学习成为习惯。
+> 极客时间
